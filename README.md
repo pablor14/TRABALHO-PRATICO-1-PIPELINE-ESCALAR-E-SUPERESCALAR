@@ -1,6 +1,7 @@
 # TRABALHO-PRATICO-1-PIPELINE-ESCALAR-E-SUPERESCALAR
 **Arquitetura de Computadores III — PUC Minas**  
  Curso: Engenharia da Computação
+ 
  Prof. Ricardo Carlini Sperandio · 1º Semestre / 2026
 
 integrantes: Pablo Rodrigues, Thiago Marques e Paulo
