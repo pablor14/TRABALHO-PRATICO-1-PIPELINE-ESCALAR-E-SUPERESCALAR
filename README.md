@@ -5,8 +5,10 @@
 
 integrantes: Pablo Rodrigues, Thiago Marques e Paulo
 
- Este repositório contém os arquivos de simulação, relatório do TP1, guia de execução disponível no README e a metodologia do trabalho.
- obs: As sequências S1–S5 foram fornecidas pelo professor e executadas no MARS MIPS Simulator.
+ Este repositório contém os arquivos de simulação, relatório do TP1, guia 
+ de execução disponível no README e a metodologia do trabalho.
+ obs: As sequências S1–S5 foram fornecidas pelo professor e executadas 
+ no MARS MIPS Simulator.
  
 - relatorio em pdf
 - pipeline:
@@ -32,4 +34,17 @@ Run > Step (F7) para avançar ciclo a ciclo
 - metodologia
 Metodologia
 As simulações escalares (Parte A) foram realizadas no MARS nas configurações (a) a (e).
-As configurações superescalares C1–C5 (Parte B) foram obtidas por modelagem analítica baseada nos parâmetros medidos no MARS, uma vez que o simulador não suporta despacho superescalar.
+As configurações superescalares C1–C5 (Parte B) foram obtidas por modelagem
+analítica baseada nos parâmetros medidos no MARS, uma vez que o simulador não suporta
+despacho superescalar.
+
+- gráficos e tabelas
+ Os gráficos e tabelas analíticas presentes no relatório foram produzidos
+manualmente utilizando Word e Excel, com base nos
+dados coletados nas simulações no MARS e na modelagem analítica das
+configurações superescalares.
+
+- uso de IA
+Não foram utilizados scripts de automação para geração de gráficos.
+O uso de IA generativa (Claude — Anthropic) foi, conforme permitido pelo enunciado,
+para auxílio na redação e análise dos resultados.
