@@ -12,14 +12,14 @@ integrantes: Pablo Rodrigues, Thiago Marques e Paulo
  no MARS MIPS Simulator.
  
 
-** pipeline: **
+# pipeline
     s1_raw_chain.s          # S1: cadeia RAW com distância 1
     s2_loop_raw_branch.s    # S2: loop com RAW + branch hazard
     s3_load_use.s           # S3: load-use irredutível
     s4_war_waw.s            # S4: anti-dependências WAR e WAW
     s5_branches.s           # S5: múltiplos desvios condicionais
 
-** tomasulo:**
+# tomasulo
     t1_raw_chain_fp.s
     t2_war_waw_fp.s
   
