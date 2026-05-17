@@ -8,7 +8,7 @@ integrantes: Pablo Rodrigues, Thiago Marques e Paulo
 
  Este repositório contém os arquivos de simulação, relatório do TP1, guia 
  de execução disponível no README e a metodologia do trabalho.
- obs: As sequências S1–S5 foram fornecidas pelo professor e executadas 
+ obs: As sequências S1–S5 e T1 e T2 foram fornecidas pelo professor e executadas 
  no MARS MIPS Simulator.
  
 # relatorio em pdf
