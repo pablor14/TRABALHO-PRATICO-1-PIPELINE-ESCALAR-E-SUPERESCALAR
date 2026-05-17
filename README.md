@@ -11,15 +11,15 @@ integrantes: Pablo Rodrigues, Thiago Marques e Paulo
  obs: As sequências S1–S5 e T1 e T2 foram fornecidas pelo professor e executadas 
  no MARS MIPS Simulator.
  
-# relatorio em pdf
-# pipeline: 
+
+** pipeline: **
     s1_raw_chain.s          # S1: cadeia RAW com distância 1
     s2_loop_raw_branch.s    # S2: loop com RAW + branch hazard
     s3_load_use.s           # S3: load-use irredutível
     s4_war_waw.s            # S4: anti-dependências WAR e WAW
     s5_branches.s           # S5: múltiplos desvios condicionais
 
-# tomasulo:
+** tomasulo:**
     t1_raw_chain_fp.s
     t2_war_waw_fp.s
   
